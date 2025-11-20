@@ -11,7 +11,7 @@ export const heroContact: HeroProps = {
       {`Our team can assist you in building your dream website.`}
     </>
   ),
-  tagline: 'Demo Contact Page',
+  tagline: 'Página de contacto conosco',
 };
 
 // Contact data on Contact page *******************
