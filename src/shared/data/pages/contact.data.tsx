@@ -4,7 +4,7 @@ import { HeroProps } from '~/shared/types';
 
 // Hero data on Contact page *******************
 export const heroContact: HeroProps = {
-  title: 'Get in touch with us',
+  title: 'Entre em contato conosco',
   subtitle: (
     <>
       <span className="hidden md:inline">{`Thank you for considering us for your project! We're excited to hear from you.`}</span>{' '}
@@ -22,7 +22,7 @@ export const contact2Contact: ContactProps = {
     title: 'Contact us',
     subtitle: (
       <>
-        Please take a moment to fill out this form.{' '}
+        Por favor, dedique um momento para preencher este formulário.{' '}
         <span className="hidden md:inline">{`So we can better understand your needs and get the process started smoothly.`}</span>
       </>
     ),
@@ -45,7 +45,7 @@ export const contact2Contact: ContactProps = {
     },
   ],
   form: {
-    title: 'Ready to Get Started?',
+    title: 'Pronto para começar?',
     inputs: [
       {
         type: 'text',
