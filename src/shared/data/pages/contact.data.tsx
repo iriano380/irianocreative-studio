@@ -8,7 +8,7 @@ export const heroContact: HeroProps = {
   subtitle: (
     <>
       <span className="hidden md:inline">{`Thank you for considering us for your project! We're excited to hear from you.`}</span>{' '}
-      {`Our team can assist you in building your dream website.`}
+      {`A nossa equipa pode ajudá-lo(a) a construir o website dos seus sonhos.`}
     </>
   ),
   tagline: 'Página de contacto conosco',
